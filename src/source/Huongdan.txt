@@ -1,0 +1,7 @@
+﻿================================Hướng Dẫn============================
+Chú chuột Jerry tham ăn bị lạc vào  mê cung. 
+Bạn hãy giúp Jerry thoát khỏi mê cung bằng cách tìm đường đi đến cửa ra với tổ  hợp các phím: lên, xuống, trái, phải.
+Nhưng, bạn hãy nhớ rằng cứ mỗi 40 giây cánh cửa sẽ mở một lần và thời gian sẽ giảm dần khi level tăng dần.
+* Chú Ý: Chú chuột Jerry tinh nghịch chỉ thích đi hai bước bạn phải khéo léo để chú đi đúng đường trong thời gian 
+nhanh nhất.
+*** Nào! cùng Jerry vượt mê cung nào.
